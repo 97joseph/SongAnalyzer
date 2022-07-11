@@ -1,0 +1,14 @@
+Title: Faint Performer: LinkinPark Album: Meteora Year: 2003 Genre: Rap Length: 3:06
+Title: BlindingLights Performer: TheWeeknd Album: AfterHours Year: 2020 Genre: Pop Length: 5:06
+Title: Faith Performer: Eminem Album: Recovery Year: 2002 Genre: Rap Length: 2:06
+Title: SummertimeSadness Performer: LanaDelRey Album: BornToDie Year: 2012 Genre: Pop Length: 4:24 
+Title: BlueJeans Performer: LanaDelRey Album: BornToDie Year: 2012 Genre: Pop Length: 3:29
+Title: DarkParadise Performer: LanaDelRey Album: BornToDie Year: 2012 Genre: Pop Length: 4:03 
+Title: LastChristmas Performer: GeorgeMichael Album: TwentyFive Year: 2006 Genre: Pop Length: 4:27
+Title: FeelingGood Performer: GeorgeMichael Album: TwentyFive Year: 2006 Genre: Pop Length: 2:54
+Title: NeverGonnaGiveYouUp Performer: RickAstley Album: WheneverYouNeedSomebody Year: 1987 Genre: Pop Length: 3:33
+Title: TogetherForever Performer: RickAstley Album: WheneverYouNeedSomebody Year: 1987 Genre: Pop Length: 3:25
+Title: ThisIsAmerica Performer: ChildishGambino Album: ThisIsAmerica Year: 2018 Genre: HipHop Length: 3:45
+Title: BillieJean Performer: MichaelJackson Album: Thriller Year: 1982 Genre: Pop Length: 4:53
+
+
